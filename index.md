@@ -1,6 +1,6 @@
 # Privacy Policy for Cleevao - Interactive K-8 Workbook
 
-**Last Updated: 27.08.2025**
+**Last Updated: 28.08.2025**
 
 ## 1. Introduction
 
