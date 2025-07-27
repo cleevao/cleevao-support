@@ -4,7 +4,7 @@
 
 ## 1. Introduction
 
-Welcome to All In One Workbook. This Privacy Policy explains what information we collect, how we use it, and how we protect it. Our application is complying with the Children's Online Privacy Protection Act (COPPA).
+Welcome to Cleevao - Interactive K-8 Workbook. This Privacy Policy explains what information we collect, how we use it, and how we protect it. Our application is complying with the Children's Online Privacy Protection Act (COPPA).
 
 
 ## 2. What Information We Collect and Why
@@ -22,12 +22,7 @@ We collect a limited amount of information for specific purposes related to the 
 - **What we collect**: Your scores on exercises.
 - **Why we collect it**: To save your progress in the app so you can continue your learning journey and track your achievements.
 
-#### C. Anonymous App Usage Analytics
-
-- **What we collect**: We record anonymously which grades and subjects are viewed.
-- **Why we collect it**: This helps us understand which educational topics are most popular, so we can focus on improving and expanding that content. We do **not** track your behavior across different apps or websites.
-
-#### D. Subscription Information
+#### C. Subscription Information
 
 - **Age Verification**: We require an adult (e.g., a parent or guardian) to complete a neutral age-gate before a subscription can be purchased.
 - **What we collect**: When a subscription is purchased, Apple provides us with a purchase receipt that includes a transaction ID and the subscription's status and expiration date.
